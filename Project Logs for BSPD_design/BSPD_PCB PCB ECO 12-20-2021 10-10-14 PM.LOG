@@ -1,0 +1,34 @@
+Change Component Footprint: Designator=P1 Old Footprint=64900411122 New Footprint=64900411122
+Change Component Footprint: Designator=R1 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R2 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R3 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R4 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R5 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R6 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R7 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R8 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R9 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R10 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R11 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=R12 Old Footprint=FP-MFR-25-MFG New Footprint=FP-MFR-25-MFG
+Change Component Footprint: Designator=C3 Old Footprint=FP-RCE0K1-MFG New Footprint=FP-RCE0K1-MFG
+Change Component Footprint: Designator=C4 Old Footprint=FP-RCE0K1-MFG New Footprint=FP-RCE0K1-MFG
+Change Component Footprint: Designator=C5 Old Footprint=FP-RCE0K1-MFG New Footprint=FP-RCE0K1-MFG
+Change Component Footprint: Designator=C6 Old Footprint=FP-RCE0K1-MFG New Footprint=FP-RCE0K1-MFG
+Change Component Footprint: Designator=C7 Old Footprint=FP-RCE0K1-MFG New Footprint=FP-RCE0K1-MFG
+Change Component Footprint: Designator=U3 Old Footprint=N0014A New Footprint=N0014A
+Change Component Footprint: Designator=U4 Old Footprint=N0014A New Footprint=N0014A
+Change Component Footprint: Designator=U5 Old Footprint=N0014A New Footprint=N0014A
+Change Component Footprint: Designator=U8 Old Footprint=N0014A New Footprint=N0014A
+Change Component Footprint: Designator=U10 Old Footprint=N0014A New Footprint=N0014A
+Change Component Footprint: Designator=C1 Old Footprint=NIC-UVR-10x12.5-2_V New Footprint=NIC-UVR-10x12.5-2_V
+Change Component Footprint: Designator=C2 Old Footprint=NIC-UVR-10x12.5-2_V New Footprint=NIC-UVR-10x12.5-2_V
+Change Component Footprint: Designator=Q1 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=ONSC-TO-92-3-29-11
+Change Component Footprint: Designator=U1 Old Footprint=P0008A New Footprint=P0008A
+Change Component Footprint: Designator=U2 Old Footprint=P0008A New Footprint=P0008A
+Change Component Footprint: Designator=U6 Old Footprint=P0008A New Footprint=P0008A
+Change Component Footprint: Designator=U9 Old Footprint=P0008A New Footprint=P0008A
+Change Component Comment : Designator=C1 Old Comment=470u New Comment=UVR1J101MPD1TD
+Change Component Comment : Designator=C2 Old Comment=470u New Comment=UVR1J101MPD1TD
+Added Component: Designator=U7(N0014A)
+Added Room: Name=BSPD_SCH

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=AND_OUT Pin=U1-1
+Removed Pin From Net: NetName=AND_OUT Pin=U1-2
+Removed Pin From Net: NetName=Curr_Comp_out Pin=U2-1
+Removed Pin From Net: NetName=NetPOT1_2 Pin=U2-2
+Removed Pin From Net: NetName=press_Sens Pin=U2-3
+Removed Pin From Net: NetName=Not_OR_out Pin=U5-4
+Removed Member From Class: ClassName=BSPD_SCH Member=U5
+Added Pin To Net: NetName=Curr_Comp_out Pin=U1-1
+Added Pin To Net: NetName=NetPOT1_2 Pin=U1-2
+Added Pin To Net: NetName=press_Sens Pin=U1-3
+Added Pin To Net: NetName=AND_OUT Pin=U2-1
+Added Pin To Net: NetName=AND_OUT Pin=U2-2
+Added Pin To Net: NetName=Not_OR_out Pin=U4-4
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=U3-3
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU4_3 Pin=U4-3
+Added Pin To Net: NetName=NetU4_3 Pin=U10-3
+Added Net: Name=NetU4_3
+Added Room: Name=BSPD_SCH

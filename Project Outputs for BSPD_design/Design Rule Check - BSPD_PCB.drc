@@ -1,0 +1,50 @@
+Protel Design System Design Rule Check
+PCB File : F:\aloshka\F1 files\2022\2021 modified designs\BSPD\PCB design\BSPD_design\BSPD_PCB.PcbDoc
+Date     : 05/01/2022
+Time     : 22:10:58
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=19.685mil) (Preferred=15mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (7.86mil < 10mil) Between Pad POT1-2(928.426mil,2831.574mil) on Multi-Layer And Track (841.812mil,2831.574mil)(889.056mil,2831.574mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.86mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.86mil < 10mil) Between Pad POT2-2(943.426mil,2363.426mil) on Multi-Layer And Track (856.812mil,2363.426mil)(904.056mil,2363.426mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.86mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:02

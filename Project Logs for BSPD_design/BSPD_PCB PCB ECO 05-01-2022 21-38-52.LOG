@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AND_OUT Pin=U2-1
+Removed Pin From Net: NetName=AND_OUT Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Pin From Net: NetName=+5 Pin=U2-8
+Removed Member From Class: ClassName=BSPD_SCH Member=U2
+Added Pin To Net: NetName=AND_OUT Pin=U3-3
+Added Room: Name=BSPD_SCH
